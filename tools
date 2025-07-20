@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8" />
+<title>Tools - Vinnesia</title>
+<link rel="stylesheet" href="style.css" />
+</head><body>
+<header><h1>Our Tools</h1></header><main>
+
+<div class="tool-card">
+  <img src="https://via.placeholder.com/150" alt="Tool Thumbnail">
+  <div>
+    <h2><a href="https://currency.vinnesia.my.id/" target="_blank">💱 Currency Converter</a></h2>
+    <p>Convert between currencies in real-time with live exchange rates.</p>
+  </div>
+</div>
+
+
+<div class="tool-card">
+  <img src="https://via.placeholder.com/150" alt="Tool Thumbnail">
+  <div>
+    <h2><a href="https://qr.vinnesia.my.id/" target="_blank">🔳 QR Code Generator</a></h2>
+    <p>Generate customizable QR codes instantly and download them.</p>
+  </div>
+</div>
+
+</main><footer><p>&copy; 2025 Vinnesia</p></footer></body></html>
